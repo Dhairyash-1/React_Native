@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 8,
     color: '#2D82B7',
   },
+  containner: { padding: 8 },
   card: {
     flex: 1,
     alignItems: 'center',
